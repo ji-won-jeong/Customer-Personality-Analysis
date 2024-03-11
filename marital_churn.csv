@@ -1,0 +1,6 @@
+﻿"marital_status","churn_cnt","total_cnt","ratio"
+"Divorced","21","232","0.0905"
+"Married","98","864","0.1134"
+"Single","42","480","0.0875"
+"Together","50","580","0.0862"
+"Widow","7","77","0.0909"
